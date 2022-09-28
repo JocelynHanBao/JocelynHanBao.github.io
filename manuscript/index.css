@@ -10,6 +10,11 @@ article, aside, footer, header, main, nav, section {
   overflow-x: hidden;
 }
 
+a:link{color:#000000;} 
+a:visited {color:#00FF00;} 
+a:hover {color:#FF00FF;}  
+a:active {color:#0000FF;} 
+
 /* Ellipse 1 */
 
 .circleBase {
@@ -61,7 +66,7 @@ background: #8F83EE;
 width: 2024px;
 height: 2024px;
 left: -82px;
-top: 9653px;
+top: 11003px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -71,7 +76,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: -351px;
-top: 9524px;
+top: 11074px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -81,7 +86,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: -939px;
-top: 10079px;
+top: 10629px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -91,7 +96,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: 108px;
-top: 9893px;
+top: 10443px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -111,7 +116,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: -550px;
-top: 9027px;
+top: 10077px;
 z-index:-1;
 background: #8F83EE;
 }
@@ -167,6 +172,7 @@ header {
 	width: 1168px;
 	background-color: #8f83ee;
 	font-size: 24px;
+	
 }
 
 .fangkuai2 {
@@ -273,6 +279,7 @@ h1 {
 .t1{
 	color:white;
 	font-size: 40px;
+	font-family: SNB; 
 	margin-right: 89px;
 	text-align: right;
 }
@@ -411,7 +418,7 @@ background: #8F83EE;
 width: 2024px;
 height: 2024px;
 left: -82px;
-top: 9653px;
+top: 11053px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -421,7 +428,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: -351px;
-top: 9524px;
+top: 10074px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -431,7 +438,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: -939px;
-top: 10079px;
+top: 11079px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -441,7 +448,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: 108px;
-top: 9893px;
+top: 10633px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
@@ -451,7 +458,7 @@ background: rgba(143, 131, 238, 0.2);
 width: 2024px;
 height: 2024px;
 left: 358px;
-top: 10183px;
+top: 10633px;
 z-index:-1;
 background: rgba(143, 131, 238, 0.2);
 }
